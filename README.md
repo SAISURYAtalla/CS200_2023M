@@ -52,5 +52,8 @@ Double-Slash : Sreya Chitluru 12240480<br> Bhoomi Goyal 12240430<br> Manopriya M
            Pravar Gupta-12241340
           Shaikh Arbaz Mohd Merajalam - 12241690
           Mohit Thakre - 12241050
-       
+	  
+SIGTERM : TALLA SAI SURYA - 12241860
+          PUNETI HEMANTH KUMAR REDDY - 12241390
+          GUNTI VARSHINI - 12140730
 >>>>>>> 53f788cdb944e09c1296542b88466e812d572f34
